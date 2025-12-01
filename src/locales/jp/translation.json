@@ -14,7 +14,6 @@
   "nav": {
     "home": "ホーム",
     "collection": "コレクション",
-    "culture": "文化",
     "guided": "ガイド",
     "nearby": "近く",
     "weather": "天気",
@@ -33,7 +32,16 @@
     "low": "最低",
     "clouds": "曇り",
     "rain": "雨",
-    "clear": "晴れ"
+    "clear": "晴れ",
+    "snow": "雪",
+    "thunderstorm": "雷雨",
+    "currentLocation": "現在地",
+    "enterLocation": "場所または都市を入力してください",
+    "search": "検索",
+    "userDeniedLocation": "ユーザーが位置情報の使用を拒否しました",
+    "cityNotFound": "この都市の天気情報が見つかりません",
+    "addToList": "リストに追加",
+    "back": "戻る"
   },
   "calendar": {
     "title": "カレンダー",
@@ -110,7 +118,9 @@
     "geolocationNotSupported": "お使いのブラウザは位置情報取得に対応していません",
     "geolocationPermissionDenied": "ユーザーが位置情報の許可を拒否しました",
     "noData": "表示できるデータがありません",
-    "loading": "読み込み中..."
+    "loading": "読み込み中...",
+    "searchGuide": "観光地や施設を検索...",
+    "noWikiText": "ウィキペディアの情報はありません。Googleマップや他の旅行情報をご確認ください。"
   },
   "wikipedia": {
     "noWikiExtract": "ウィキペディアに紹介が見つかりませんでした。",
